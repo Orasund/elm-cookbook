@@ -80,7 +80,7 @@ updateMessage message model =
 ```
 
 {% hint style="success" %}
-**This is the correct way**
+**This is the a better solution**
 {% endhint %}
 {% endtab %}
 {% endtabs %}
