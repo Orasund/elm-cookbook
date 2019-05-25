@@ -6,6 +6,7 @@
 * Making Impossible state Impossible: Interesting Problems
   * [Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2)
   * [Phantom Types](https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d)
+  * Zipper Lists
 * Writing  Framework/Designing a API
   * [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
   * Config-Pipe \(using the "with" pattern\)

@@ -6,6 +6,7 @@
   * [How to update nested Records?](frequently-asked-questions/how-to-update-nested-records.md)
   * [Future topics](frequently-asked-questions/future-topics.md)
 * [Recipes](recipes/README.md)
+  * [Making impossible states Impossible](recipes/making-impossible-states-impossible.md)
   * [Future topics](recipes/future-topics.md)
 * [Frameworks](frameworks/README.md)
   * [Future topics](frameworks/elm-ui.md)
