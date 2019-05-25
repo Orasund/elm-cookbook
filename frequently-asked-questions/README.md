@@ -1,6 +1,2 @@
 # Frequently Asked Questions
 
-
-
-
-

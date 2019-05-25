@@ -9,7 +9,7 @@
   * Config-Pipe \(using the "with" pattern\)
   * [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d)
 * [working with Fields](https://medium.com/@l.mugnaini/forms-in-elm-validation-tutorial-and-examples-2339830055da)
-  * dropdown menus
+  * [dropdown menus](https://medium.com/elm-shorts/a-reusable-dropdown-in-elm-part-1-d7ac2d106f13)
 
 
 
