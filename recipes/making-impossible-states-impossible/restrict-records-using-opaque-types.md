@@ -103,5 +103,5 @@ addRating rating (Movie movie) =
 
 ## Further reading
 
-* [Advanced Types in Elm - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) by Charlie Koster
+* **Article:** [Advanced Types in Elm - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) by Charlie Koster
 

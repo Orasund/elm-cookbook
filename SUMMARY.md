@@ -8,6 +8,8 @@
 * [Recipes](recipes/README.md)
   * [Making impossible states Impossible](recipes/making-impossible-states-impossible/README.md)
     * [Restrict Records using Opaque Types](recipes/making-impossible-states-impossible/restrict-records-using-opaque-types.md)
+  * [Designing Elm package APIs](recipes/designing-a-api/README.md)
+    * [Create upwards compatible APIs](recipes/designing-a-api/create-upwards-compatible-apis.md)
   * [Future topics](recipes/future-topics.md)
 * [Frameworks](frameworks/README.md)
   * [Future topics](frameworks/elm-ui.md)

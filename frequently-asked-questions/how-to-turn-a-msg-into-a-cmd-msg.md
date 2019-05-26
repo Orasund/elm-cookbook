@@ -102,5 +102,5 @@ sendMsg msg =
 
 ## Further reading
 
-* [How to turn a Msg into a Cmd Msg in Elm?](https://medium.com/elm-shorts/how-to-turn-a-msg-into-a-cmd-msg-in-elm-5dd095175d84) by Wouter In t Velt
+* **Article:** [How to turn a Msg into a Cmd Msg in Elm?](https://medium.com/elm-shorts/how-to-turn-a-msg-into-a-cmd-msg-in-elm-5dd095175d84) by Wouter In t Velt
 

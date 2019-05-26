@@ -25,5 +25,5 @@ In this section we will look at common ways how to avoid impossible states.
 
 ## Further reading
 
-* [Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) by Richard Feldman
+* **Video:** [Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) by Richard Feldman
 
