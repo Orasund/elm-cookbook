@@ -1,6 +1,6 @@
 # Making impossible states Impossible
 
-A good coding practice in elm is to define the Model such that impossible states can not occur.
+A good coding practice in Elm is to define the Model such that impossible states can not occur.
 
 Instead of writing
 
