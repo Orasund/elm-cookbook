@@ -41,7 +41,7 @@ This is a summary of the talk [Building a Toolkit for Design](https://www.youtub
 ## Alignment
 
 {% hint style="info" %}
-This Subject is explained at [3:26 in the Video](https://youtu.be/Ie-gqwSHQr0?t=206).
+This subject is explained at [3:26 in the Video](https://youtu.be/Ie-gqwSHQr0?t=206).
 {% endhint %}
 
 | Function | Description |
@@ -56,7 +56,7 @@ This Subject is explained at [3:26 in the Video](https://youtu.be/Ie-gqwSHQr0?t=
 ## Padding and Spacing
 
 {% hint style="info" %}
-This Subject is explained at [7:32 in the Video](https://youtu.be/Ie-gqwSHQr0?t=452).
+This subject is explained at [7:32 in the Video](https://youtu.be/Ie-gqwSHQr0?t=452).
 {% endhint %}
 
 | Function | Description |
@@ -67,7 +67,7 @@ This Subject is explained at [7:32 in the Video](https://youtu.be/Ie-gqwSHQr0?t=
 ## Size
 
 {% hint style="info" %}
-This Subject is explained at [9:15 in the Video](https://youtu.be/Ie-gqwSHQr0?t=555).
+This subject is explained at [9:15 in the Video](https://youtu.be/Ie-gqwSHQr0?t=555).
 {% endhint %}
 
 | Function | Description |
@@ -79,7 +79,7 @@ This Subject is explained at [9:15 in the Video](https://youtu.be/Ie-gqwSHQr0?t=
 ## Text Layout
 
 {% hint style="info" %}
-This Subject is explained at [12:47 in the Video](https://youtu.be/Ie-gqwSHQr0?t=767).
+This subject is explained at [12:47 in the Video](https://youtu.be/Ie-gqwSHQr0?t=767).
 {% endhint %}
 
 | Function | Description |
