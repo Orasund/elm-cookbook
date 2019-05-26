@@ -5,7 +5,7 @@ A good coding practice in Elm is to define the Model such that impossible states
 Instead of writing
 
 ```text
-Type alias ServerRequest =
+type alias ServerRequest =
     { Response (Maybe String)
     , Failed (Maybe Error)
     }
@@ -15,7 +15,7 @@ Type alias ServerRequest =
 one can use
 
 ```text
-Type ServerRequest =
+type ServerRequest =
     Waiting
     Response String
     Failed Error

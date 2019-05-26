@@ -8,6 +8,7 @@
 * [Recipes](recipes/README.md)
   * [Making impossible states Impossible](recipes/making-impossible-states-impossible/README.md)
     * [Restrict records using Opaque Types](recipes/making-impossible-states-impossible/restrict-records-using-opaque-types.md)
+    * [Write safer functions using Phantom Types](recipes/making-impossible-states-impossible/write-safer-functions-using-phantom-types.md)
     * [Non empty lists using Zippers](recipes/making-impossible-states-impossible/non-empty-lists-using-zippers.md)
   * [Designing Elm package APIs](recipes/designing-a-api/README.md)
     * [Create upwards compatible APIs](recipes/designing-a-api/create-upwards-compatible-apis.md)
