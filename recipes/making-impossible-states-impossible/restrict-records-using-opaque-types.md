@@ -4,8 +4,9 @@
 If you're writing a package use a config pipe API instead:
 
 * `new : Movie`
-* `withTitle : Title -> Movie -> Movie`
-* `withRating : Rating -> Movie -> Movie`
+* `withTitle : String -> Movie -> Movie`
+* `withRating : Int -> Movie -> Movie`
+* `rate : Int -> Movie -> Maybe Movie`
 {% endhint %}
 
 {% tabs %}
