@@ -1,12 +1,7 @@
 # Restrict Records using Opaque Types
 
 {% hint style="info" %}
-If you're writing a package use a config pipe API instead:
-
-* `new : Movie`
-* `withTitle : String -> Movie -> Movie`
-* `withRating : Int -> Movie -> Movie`
-* `rate : Int -> Movie -> Maybe Movie`
+If you're writing a package use a [config pipe API](../designing-a-api/create-upwards-compatible-apis.md) instead.
 {% endhint %}
 
 {% tabs %}
@@ -62,11 +57,9 @@ fromTitle title =
     }
 ```
 {% endcode-tabs-item %}
-{% endcode-tabs %}
 
-{% code-tabs %}
 {% code-tabs-item title="Main.elm" %}
-```text
+```
 import Movie exposing (Movie)
 
 newMovie : String -> Int -> Movie

@@ -12,5 +12,6 @@
     * [Create upwards compatible APIs](recipes/designing-a-api/create-upwards-compatible-apis.md)
   * [Future topics](recipes/future-topics.md)
 * [Frameworks](frameworks/README.md)
+  * [Elm-UI](frameworks/elm-ui-1.md)
   * [Future topics](frameworks/elm-ui.md)
 
