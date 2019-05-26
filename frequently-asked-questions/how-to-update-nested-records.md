@@ -1,9 +1,7 @@
 # How to update nested Records?
 
-
-
 {% hint style="warning" %}
-**Not Good Practice:** Create an [opaque type](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) instead.
+**Not Good Practice:** Create an [opaque type](../recipes/making-impossible-states-impossible/restrict-records-using-opaque-types.md) instead.
 {% endhint %}
 
 {% tabs %}
