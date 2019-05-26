@@ -1,4 +1,4 @@
-# Restrict Records using Opaque Types
+# Restrict records using Opaque Types
 
 {% hint style="info" %}
 If you're writing a package use a [config pipe API](../designing-a-api/create-upwards-compatible-apis.md) instead.
