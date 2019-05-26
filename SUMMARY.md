@@ -4,6 +4,7 @@
 * [Frequently asked questions](frequently-asked-questions/README.md)
   * [How to turn a Msg into a Cmd Msg?](frequently-asked-questions/how-to-turn-a-msg-into-a-cmd-msg.md)
   * [How to update nested Records?](frequently-asked-questions/how-to-update-nested-records.md)
+  * [Why are Booleans bad?](frequently-asked-questions/why-are-booleans-bad.md)
   * [Future topics](frequently-asked-questions/future-topics.md)
 * [Recipes](recipes/README.md)
   * [Making impossible states Impossible](recipes/making-impossible-states-impossible/README.md)
