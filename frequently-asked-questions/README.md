@@ -6,7 +6,7 @@ This chapter contains answers to questions that might come up after reading the 
 
 ## What is NOT in this Chapter
 
-This chapter does cover new topics or advanced tricks, but it will hint at advanced topics if they are relevant for the question.
+This chapter does cover new topics or advanced tricks, but it will hint at related topics if they are relevant for the question.
 
 
 
