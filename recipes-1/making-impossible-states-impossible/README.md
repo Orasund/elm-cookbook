@@ -26,4 +26,5 @@ In this section we will look at common ways how to avoid impossible states.
 ## Further reading
 
 * **Video:** [Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) by Richard Feldman
+* **Example:** [Tic Tac Toe](https://discourse.elm-lang.org/t/tictactoe-should-the-winner-be-part-of-the-model/3519/6)
 

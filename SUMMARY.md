@@ -20,7 +20,7 @@
   * [Create upwards compatible APIs](recipes-1/designing-a-api/create-upwards-compatible-apis.md)
 * [Future topics](recipes-1/future-topics.md)
 
-## Frameworks
+## Frameworks and packages
 
 * [Elm-UI](frameworks-1/elm-ui-1.md)
 * [Future topics](frameworks-1/elm-ui.md)
