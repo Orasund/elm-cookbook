@@ -9,6 +9,5 @@ Each section will focus on one specific problem and one solution. At the end of 
 ## This is a Community Project
 
 The book is open-source and can be read [here](https://orasund.gitbook.io/elm-cookbook/).  
-If you want to contribute an interesting post or article, you can  
-If you want to contribute, head over to the [github repository](https://github.com/Orasund/elm-cookbook) and start a new PR.
+If you want to contribute an interesting post or article, first check if that topic is already covered. If so, add it to the _Further reading_ chapter; If not, add it to future topics and start an issue on the [github repository](https://github.com/Orasund/elm-cookbook).
 
