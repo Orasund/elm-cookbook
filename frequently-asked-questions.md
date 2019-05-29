@@ -1,6 +1,6 @@
-# How to contributed
+# Structure of the book
 
-The book in divided into three chapters.
+The book is divided into three chapters.
 
 ## Frequently asked question
 

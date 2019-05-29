@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [How to contributed](frequently-asked-questions.md)
+* [Structure of the book](frequently-asked-questions.md)
 
 ## Frequently asked questions
 
