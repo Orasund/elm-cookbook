@@ -1,7 +1,7 @@
 # How to update nested Records?
 
 {% hint style="warning" %}
-**Not Good Practice:** Create an [opaque type](../recipes-1/making-impossible-states-impossible/restrict-records-using-opaque-types.md) instead.
+**Not best practice:** Create an [opaque type](../recipes-1/making-impossible-states-impossible/restrict-records-using-opaque-types.md) instead.
 {% endhint %}
 
 {% tabs %}
