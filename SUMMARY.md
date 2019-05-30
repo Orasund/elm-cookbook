@@ -5,6 +5,7 @@
 
 ## Frequently asked questions
 
+* [How to structure an Elm project](frequently-asked-questions-1/how-to-structure-an-elm-project.md)
 * [How to update nested Records?](frequently-asked-questions-1/how-to-update-nested-records.md)
 * [Why are Booleans bad?](frequently-asked-questions-1/why-are-booleans-bad.md)
 * [How to turn a Msg into a Cmd Msg?](frequently-asked-questions-1/how-to-turn-a-msg-into-a-cmd-msg.md)
@@ -12,6 +13,7 @@
 
 ## Recipes
 
+* [Writing a Single Page Application](recipes-1/writing-a-single-page-application.md)
 * [Making impossible states Impossible](recipes-1/making-impossible-states-impossible/README.md)
   * [Restrict records using Opaque Types](recipes-1/making-impossible-states-impossible/restrict-records-using-opaque-types.md)
   * [Write safer functions using Phantom Types](recipes-1/making-impossible-states-impossible/write-safer-functions-using-phantom-types.md)
