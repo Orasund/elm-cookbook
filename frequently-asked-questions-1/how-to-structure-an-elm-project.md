@@ -1,13 +1,7 @@
 # How to structure an Elm project
 
 {% hint style="info" %}
-Only start spliting files if either
-
-* The module has a long list of imports
-* A type in the module has a lot of helper functions.
-* You have lost track of the content
-
-Try structuring the files around a type.
+**Do not overuse:** Files are allowed to get quite big without needing to split them.
 {% endhint %}
 
 {% tabs %}
@@ -269,9 +263,7 @@ How should I structure my Elm project?
 
 ## Answer
 
-Wait with the restructuring until you hit at least 600 lines of code.
-
-Then use the following file structure:
+Use the following file structure:
 
 * Main.elm - Contains the main code
 * Data.elm - Contains utility functions for types \(like constants\)
