@@ -3,8 +3,7 @@
 {% hint style="info" %}
 Only start spliting files if either
 
-* The file has between 600 and 1000 lines \(up to personal taste\)
-* The module has a long list of imports \(more than 20\)
+* The module has a long list of imports
 * A type in the module has a lot of helper functions.
 * You have lost track of the content
 {% endhint %}
