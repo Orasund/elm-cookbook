@@ -6,6 +6,8 @@ Only start spliting files if either
 * The module has a long list of imports
 * A type in the module has a lot of helper functions.
 * You have lost track of the content
+
+Try structuring the files around a type.
 {% endhint %}
 
 {% tabs %}
