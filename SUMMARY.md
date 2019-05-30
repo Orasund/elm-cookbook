@@ -5,7 +5,7 @@
 
 ## Frequently asked questions
 
-* [How to structure an Elm project](frequently-asked-questions-1/how-to-structure-an-elm-project.md)
+* [How to structure an Elm project?](frequently-asked-questions-1/how-to-structure-an-elm-project.md)
 * [How to update nested Records?](frequently-asked-questions-1/how-to-update-nested-records.md)
 * [Why are Booleans bad?](frequently-asked-questions-1/why-are-booleans-bad.md)
 * [How to turn a Msg into a Cmd Msg?](frequently-asked-questions-1/how-to-turn-a-msg-into-a-cmd-msg.md)

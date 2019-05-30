@@ -1,4 +1,4 @@
-# How to structure an Elm project
+# How to structure an Elm project?
 
 {% hint style="info" %}
 **Do not overuse:** Files are allowed to get quite big without needing to split them.
