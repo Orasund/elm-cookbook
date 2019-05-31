@@ -277,5 +277,6 @@ Use the following file structure:
 ## Further reading
 
 * **Document:** [NoRedInk Style Guide](https://github.com/NoRedInk/elm-style-guide/blob/master/README.md)
+* **Article:** Tour of an [Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) by Richard Feldman
 * **Video:** [The life of a file](https://www.youtube.com/watch?v=XpDsk374LDE) by Evan Czaplicki
 

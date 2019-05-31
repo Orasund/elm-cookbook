@@ -14,7 +14,8 @@
 
 ## Recipes
 
-* [Writing a Single Page Application](recipes-1/writing-a-single-page-application.md)
+* [Writing a Single Page Application](recipes-1/writing-a-single-page-application/README.md)
+  * [Reusable views](recipes-1/writing-a-single-page-application/reusable-views.md)
 * [Making impossible states Impossible](recipes-1/making-impossible-states-impossible/README.md)
   * [Restrict records using Opaque Types](recipes-1/making-impossible-states-impossible/restrict-records-using-opaque-types.md)
   * [Write safer functions using Phantom Types](recipes-1/making-impossible-states-impossible/write-safer-functions-using-phantom-types.md)

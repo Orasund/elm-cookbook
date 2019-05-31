@@ -16,5 +16,5 @@ The solutions do not use community-packages, but implement as much as possible u
 
 ## **Frameworks and packages**
 
-\*\*\*\*
+This chapter contains summaries of videos explaining specific packages. These summaries are meant to be a first introduction and should be used with the video. There are timestamps and all the functions that are needed to understand snippets of the video, after that introduction the reader is meant to checkout the official documentation.
 

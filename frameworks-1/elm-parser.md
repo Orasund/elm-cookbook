@@ -4,6 +4,26 @@
 >
 > \(Readme.md from the [package](https://package.elm-lang.org/packages/elm/parser/latest/)\)
 
+```text
+type alias Point =
+  { x : Float
+  , y : Float
+  }
+
+point : Parser Point
+point =
+  succeed Point
+    |. symbol "("
+    |. spaces
+    |= float
+    |. spaces
+    |. symbol ","
+    |. spaces
+    |= float
+    |. spaces
+    |. symbol ")"
+```
+
 This is a summary of the talk [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) by Tereza Sokol.
 
 ## Basics

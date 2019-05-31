@@ -27,4 +27,7 @@ In this section we will look at common ways how to avoid impossible states.
 
 * **Video:** [Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) by Richard Feldman
 * **Example:** [Tic Tac Toe](https://discourse.elm-lang.org/t/tictactoe-should-the-winner-be-part-of-the-model/3519/6)
+* **Example:** [Subset of {a,b}](https://www.reddit.com/r/elm/comments/bhpc7s/help_designing_my_model/)
+
+
 
