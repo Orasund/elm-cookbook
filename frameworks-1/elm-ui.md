@@ -1,4 +1,4 @@
-# Future topics
+# 🔜 Future topics
 
 * [elm/parser](https://korban.net/posts/elm/2018-09-07-introduction-elm-parser/) and [Video](https://www.youtube.com/watch?v=M9ulswr1z0E)
 * [elm/json](https://korban.net/posts/elm/2018-09-12-generate-json-from-elm-values-json-encode/)

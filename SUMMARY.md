@@ -9,7 +9,8 @@
 * [How to update nested Records?](frequently-asked-questions-1/how-to-update-nested-records.md)
 * [Why are Booleans bad?](frequently-asked-questions-1/why-are-booleans-bad.md)
 * [How to turn a Msg into a Cmd Msg?](frequently-asked-questions-1/how-to-turn-a-msg-into-a-cmd-msg.md)
-* [Future topics](frequently-asked-questions-1/future-topics.md)
+* [What are comparable types?](frequently-asked-questions-1/what-does-comparable-type.md)
+* [🔜 Future topics](frequently-asked-questions-1/future-topics.md)
 
 ## Recipes
 
@@ -20,10 +21,10 @@
   * [Non empty lists using Zippers](recipes-1/making-impossible-states-impossible/non-empty-lists-using-zippers.md)
 * [Designing Elm package APIs](recipes-1/designing-a-api/README.md)
   * [Create upwards compatible APIs](recipes-1/designing-a-api/create-upwards-compatible-apis.md)
-* [Future topics](recipes-1/future-topics.md)
+* [🔜 Future topics](recipes-1/future-topics.md)
 
 ## Frameworks and packages
 
 * [Elm-UI](frameworks-1/elm-ui-1.md)
-* [Future topics](frameworks-1/elm-ui.md)
+* [🔜 Future topics](frameworks-1/elm-ui.md)
 

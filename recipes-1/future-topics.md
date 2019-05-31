@@ -1,4 +1,4 @@
-# Future topics
+# 🔜 Future topics
 
 * [How to write a SPA?](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
   * [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
