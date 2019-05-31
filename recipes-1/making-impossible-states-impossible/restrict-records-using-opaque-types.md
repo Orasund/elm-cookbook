@@ -1,7 +1,7 @@
 # Restrict records using Opaque Types
 
 {% hint style="info" %}
-If you're writing a package use a [config pipe API](../designing-a-api/create-upwards-compatible-apis.md) instead.
+If you're writing a package use a [pipeline API](../designing-a-api/create-upwards-compatible-apis.md) instead.
 {% endhint %}
 
 {% tabs %}

@@ -74,6 +74,8 @@ Movie.fromTitle "Life of Brian"
 
 ## Further Reading
 
+* **Example:** [NoRedInk/elm-json-decode-pipeline](https://package.elm-lang.org/packages/NoRedInk/elm-json-decode-pipeline/latest/)
+* **Example:** [Chadtech/random-pipeline](https://package.elm-lang.org/packages/Chadtech/random-pipeline/latest/)
 * **Example:** [Particle Type](https://package.elm-lang.org/packages/BrianHicks/elm-particle/latest/Particle#Particle) from BrianHicks/elm-particle
 * **Example:** [Request Type](https://package.elm-lang.org/packages/dillonkearns/elm-graphql/latest/Graphql-Http#withHeader) from dillonkearns/elm-graph
 * **Example:** [Image Type](https://package.elm-lang.org/packages/Orasund/pixelengine/latest/PixelEngine-Image#Image) from Orasund/pixelengine
