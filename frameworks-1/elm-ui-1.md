@@ -1,4 +1,4 @@
-# Elm-UI
+# mdgriffith/elm-ui
 
 > CSS and HTML are actually quite difficult to use when you're trying to do the layout and styling of a web page.
 >
@@ -26,17 +26,17 @@ main =
             ]      
 ```
 
-This is a summary of the talk [Building a Toolkit for Design](https://www.youtube.com/watch?v=NYb2GDWMIm0) by Matthew Griffith
+This is a summary of the talk [Building a Toolkit for Design](https://www.youtube.com/watch?v=NYb2GDWMIm0) by Matthew Griffith.
 
 ## Basics
 
 | Function | Description |
 | :--- | :--- |
-|  [layout](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#layout) : List \(Attribute msg\) -&gt; Element msg -&gt; Html msg | Converts Elm-UI into Html. |
-|  [text](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#text) : String -&gt; Element msg | Some text. |
-|  [el](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#el) : List \(Attribute msg\) -&gt; Element msg -&gt; Element msg | A basic element similar to `div` from HTML. |
-|  [row](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#row) : List \(Attribute msg\) -&gt; List \(Element msg\) -&gt; Element msg | A row of elements. |
-|  [column](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#column) : List \(Attribute msg\) -&gt; List \(Element msg\) -&gt; Element msg | A column of elements. |
+|  [`layout`](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#layout) `: List (Attribute msg) -> Element msg -> Html msg` | Converts Elm-UI into Html. |
+|  [`text`](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#text) `: String -> Element msg` | Some text. |
+|  [`el`](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#el) `: List (Attribute msg) -> Element msg -> Element msg` | A basic element similar to `div` from HTML. |
+|  [`row`](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#row) `: List (Attribute msg) -> List (Element msg) -> Element msg` | A row of elements. |
+|  [`column`](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/Element#column) `: List (Attribute msg) -> List (Element msg) -> Element msg` | A column of elements. |
 
 ## Alignment
 

@@ -25,6 +25,7 @@
 
 ## Frameworks and packages
 
-* [Elm-UI](frameworks-1/elm-ui-1.md)
+* [mdgriffith/elm-ui](frameworks-1/elm-ui-1.md)
+* [elm/parser](frameworks-1/elm-parser.md)
 * [🔜 Future topics](frameworks-1/elm-ui.md)
 
