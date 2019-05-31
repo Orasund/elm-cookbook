@@ -57,4 +57,6 @@ Booleans create a lot of problems, for example what does it mean if `Request.fet
 ## Further reading
 
 * **Video:** [Solving the Boolean Identity Crisis](https://www.youtube.com/watch?v=8Af1bh-BVY8) by Jeremy Fairbank
+* **Blog:** [Solving the Boolean Identity Crisis Part 1](https://programming-elm.com/blog/2019-05-20-solving-the-boolean-identity-crisis-part-1/) by Jeremy Fairbank
+* **Blog:** [Solving the Boolean Identity Crisis Part 2](https://programming-elm.com/blog/2019-05-30-solving-the-boolean-identity-crisis-part-2/) by Jeremy Fairbank
 
