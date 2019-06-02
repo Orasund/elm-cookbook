@@ -74,6 +74,7 @@ Movie.fromTitle "Life of Brian"
 
 ## Further Reading
 
+* **Video:** [Robot Buttons from Mars](https://www.youtube.com/watch?v=PDyWP-0H4Zo) by Brian Hicks
 * **Example:** [NoRedInk/elm-json-decode-pipeline](https://package.elm-lang.org/packages/NoRedInk/elm-json-decode-pipeline/latest/)
 * **Example:** [Chadtech/random-pipeline](https://package.elm-lang.org/packages/Chadtech/random-pipeline/latest/)
 * **Example:** [Particle Type](https://package.elm-lang.org/packages/BrianHicks/elm-particle/latest/Particle#Particle) from BrianHicks/elm-particle
