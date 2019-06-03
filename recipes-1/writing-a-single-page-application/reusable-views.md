@@ -157,11 +157,11 @@ myButton msgWrapper {text} attributes children =
 
 ## Question
 
-How can i build a reusable view function with its own model and update function?
+How can I build a reusable view function with its own model and update function?
 
 ## Answer
 
-The trick is to add an additional argument `(ButtonMsg -> msg)`. 
+The trick is to add an argument `(ButtonMsg -> msg)`. 
 
 ## Further reading
 
