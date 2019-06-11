@@ -1,5 +1,7 @@
 # 🔜 Future topics
 
+There are still a few topics that should be covert. Here are some of them, together with helpful resources.
+
 * How to write a SPA?
   * [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
   * [Page Navigation](https://medium.com/elm-shorts/more-on-spa-navigation-in-elm-31a066c6b9ae)
