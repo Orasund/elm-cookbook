@@ -5,6 +5,7 @@ There are still a few topics that should be covert. Here are some of them, toget
 * How to write a SPA?
   * [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
   * [Page Navigation](https://medium.com/elm-shorts/more-on-spa-navigation-in-elm-31a066c6b9ae)
+  * [Routing](https://www.reddit.com/r/elm/comments/b4ao63/trouble_with_extracting_parsing_url_fragment/)
 * Designing Elm package APIs
   * [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
   * [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d)
