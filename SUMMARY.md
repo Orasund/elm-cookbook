@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Structure of the book](frequently-asked-questions.md)
 
-## Frequently asked questions
+## Frequently asked questions <a id="frequently-asked-questions-1"></a>
 
 * [How to structure an Elm project?](frequently-asked-questions-1/how-to-structure-an-elm-project.md)
 * [How to update nested Records?](frequently-asked-questions-1/how-to-update-nested-records.md)
@@ -12,9 +12,10 @@
 * [What are comparable types?](frequently-asked-questions-1/what-does-comparable-type.md)
 * [🔜 Future topics](frequently-asked-questions-1/future-topics.md)
 
-## Recipes
+## Recipes <a id="recipes-1"></a>
 
 * [Writing a Single Page Application](recipes-1/writing-a-single-page-application/README.md)
+  * [Debounced Validation](recipes-1/writing-a-single-page-application/debounced-validation.md)
   * [Reusable views](recipes-1/writing-a-single-page-application/reusable-views.md)
 * [Making impossible states Impossible](recipes-1/making-impossible-states-impossible/README.md)
   * [Restrict records using Opaque Types](recipes-1/making-impossible-states-impossible/restrict-records-using-opaque-types.md)
@@ -24,7 +25,7 @@
   * [Create upwards compatible APIs](recipes-1/designing-a-api/create-upwards-compatible-apis.md)
 * [🔜 Future topics](recipes-1/future-topics.md)
 
-## Frameworks and packages
+## Frameworks and packages <a id="frameworks-1"></a>
 
 * [mdgriffith/elm-ui](frameworks-1/elm-ui-1.md)
 * [elm/parser](frameworks-1/elm-parser.md)
