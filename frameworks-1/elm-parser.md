@@ -141,4 +141,5 @@ This subject is explained at [17:04 in the Video](https://youtu.be/M9ulswr1z0E?t
 ## Further Reading
 
 * **Video:** [Demystifying Parsers](https://www.youtube.com/watch?v=M9ulswr1z0E) by Tereza Sokol
+* **Thread:** [Elm parser question](https://www.reddit.com/r/elm/comments/bcb2fi/elm_parser_question/)
 
