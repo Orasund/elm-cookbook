@@ -10,6 +10,7 @@
 * [Why are Booleans bad?](frequently-asked-questions-1/why-are-booleans-bad.md)
 * [How to turn a Msg into a Cmd Msg?](frequently-asked-questions-1/how-to-turn-a-msg-into-a-cmd-msg.md)
 * [What are comparable types?](frequently-asked-questions-1/what-does-comparable-type.md)
+* [How to break Dependency Cycles?](frequently-asked-questions-1/how-to-break-dependency-cycles.md)
 * [🔜 Future topics](frequently-asked-questions-1/future-topics.md)
 
 ## Recipes <a id="recipes-1"></a>
