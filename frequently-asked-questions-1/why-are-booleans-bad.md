@@ -1,7 +1,5 @@
 # Why are Booleans bad?
 
-
-
 {% tabs %}
 {% tab title="Problem" %}
 ```text
