@@ -5,10 +5,11 @@ There are still a few topics that should be covert. Here are some of them, toget
 * How to write a SPA?
   * **Article:** [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
   * **Article:** [Page Navigation](https://medium.com/elm-shorts/more-on-spa-navigation-in-elm-31a066c6b9ae)
+  * **Article:** [URL handling](https://korban.net/posts/elm/2018-10-12-elm-guide-missing-part-url-handling-browser.application/)
   * **Thread:** [Routing](https://www.reddit.com/r/elm/comments/b4ao63/trouble_with_extracting_parsing_url_fragment/)
 * Designing Elm package APIs
   * **Article:** [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
-  * **Article:** [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d)
+  * **Article:** [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d) and [Thread](https://discourse.elm-lang.org/t/moving-from-similar-to-same/2527/7)
 * Making impossible states Impossible
 * Reusable Views
   * **Article:** [Dropdown menus](https://medium.com/elm-shorts/a-reusable-dropdown-in-elm-part-1-d7ac2d106f13)
