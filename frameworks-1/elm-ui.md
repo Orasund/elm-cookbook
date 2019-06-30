@@ -1,6 +1,6 @@
 # 🔜 Future topics
 
-There are still a few topics that should be covert. Here are some of them, together with helpful resources.
+There are still a few topics that should be covered. Here are some of them, together with helpful resources.
 
 * [elm/json](https://korban.net/posts/elm/2018-09-12-generate-json-from-elm-values-json-encode/)
 * [elm/random](https://www.youtube.com/watch?v=YxGWQdFo2Yc)

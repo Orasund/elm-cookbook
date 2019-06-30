@@ -1,6 +1,6 @@
 # 🔜 Future topics
 
-There are still a few topics that should be covert. Here are some of them, together with helpful resources.
+There are still a few topics that should be coverred. Here are some of them, together with helpful resources.
 
 * How to write a SPA?
   * **Article:** [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
