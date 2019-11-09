@@ -1,19 +1,20 @@
 # How to structure an Elm project?
 
+{% hint style="danger" %}
+The answer to this question can be found in the [Beginning Elm book](https://elmprogramming.com/restructuring-code.html).  
+This question will therefore be removed at some time in the future.
+{% endhint %}
+
 {% hint style="info" %}
 **Do not overuse:** Files are allowed to get quite big without needing to split them.
 {% endhint %}
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code-tabs %}
-{% code-tabs-item title="Readme.md" %}
 ```
 check out todo.elm for the full code.
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Todo.elm" %}
 ```text
 type Task =
     Task
@@ -107,13 +108,9 @@ view : Model -> Html Msg
 
 subscription : Model -> Sub Msgexpos
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 importing Todo.Page.Login as LoginPage
 importing Todo.Page.Todo as TodoPage
@@ -134,9 +131,7 @@ view : Model -> Html Msg
 
 subscription : Model -> Sub Msg
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Page/Login.elm" %}
 ```
 module Todo.Page.Login exposing (Model,Msg,view,update)
 
@@ -158,9 +153,7 @@ viewUserForm : Form UserForm -> Html Msg
 
 view : Model -> Html Msg
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Page/Todo.elm" %}
 ```
 module Todo.Page.Login exposing (Model,Msg,view,update)
 
@@ -188,9 +181,7 @@ viewTaskForm : Form TaskForm -> Html Msg
 
 view : Model -> Html Msg
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Data/Task.elm" %}
 ```
 module Todo.Data.Task exposing (Task,create,complete,validate)
 
@@ -214,9 +205,7 @@ type alias TaskForm =
 
 validate : Form TaskForm -> Form ()
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Data/Form.elm" %}
 ```
 module Todo.Data.Form exposing (Form(..),validate)
 
@@ -227,9 +216,7 @@ type Form a =
 
 validate : (Form a -> Form ()) -> Form a -> Form a
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Data/User.elm" %}
 ```
 module Todo.Data.User exposing (User,UserForm,create,validate)
 
@@ -252,8 +239,6 @@ type alias UserForm =
 validate : Form UserForm -> Form ()
 
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 

@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code-tabs %}
-{% code-tabs-item title="Movie.elm" %}
 ```text
 type Movie =
     Movie 
@@ -19,13 +17,9 @@ new title rating =
     , rating = clamp 1 5 rating
     }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Movie.elm" %}
 ```text
 type Movie =
     Movie 
@@ -50,8 +44,6 @@ withDirector : String -> Movie -> Movie
 withDirector director (Movie movie) =
     { movie | director = director }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 

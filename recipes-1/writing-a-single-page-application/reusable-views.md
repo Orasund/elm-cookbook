@@ -2,14 +2,10 @@
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code-tabs %}
-{% code-tabs-item title=undefined %}
 ```
 check out Main.elm for the full code.
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Main.elm" %}
 ```
 type alias ButtonModel =
     { text : String
@@ -66,13 +62,9 @@ view model =
             ]
         ]
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 exposing MyButton
 
@@ -115,9 +107,7 @@ view ({button} as model) =
             ]
         ]
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="MyButton.elm" %}
 ```
 type alias ButtonModel =
     { text : String
@@ -150,8 +140,6 @@ myButton msgWrapper {text} attributes children =
         )
         :: children
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 

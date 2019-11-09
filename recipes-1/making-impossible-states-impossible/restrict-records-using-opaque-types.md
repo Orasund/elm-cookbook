@@ -6,8 +6,6 @@ If you're writing a package use a [pipeline API](../designing-a-api/create-upwar
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 type alias Movie = 
     { title : String
@@ -21,13 +19,9 @@ addRating : Int -> Movie -> Movie
 addRating rating movie =
     { movie | rating = rating}
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Movie.elm" %}
 ```text
 module Movie exposing (Movie,fromTitle,addRating)
 
@@ -56,9 +50,7 @@ fromTitle title =
     , rating = 0
     }
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="Main.elm" %}
 ```
 import Movie exposing (Movie)
 
@@ -71,8 +63,6 @@ newMovie title rating =
     |> Movie.addRating rating
     |> Maybe.withDefault movie
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 
@@ -96,6 +86,7 @@ addRating rating (Movie movie) =
 
 ## Further reading
 
+* **Book:** [Beginning Elm](https://elmprogramming.com/commands.html#opaque-type) by Pawan Poudel
 * **Article:** [Advanced Types in Elm - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) by Charlie Koster
 * **Thread:** [Post-update invariant repair: good idea or bad?](https://discourse.elm-lang.org/t/post-update-invariant-repair-good-idea-or-bad/3715/2)
 

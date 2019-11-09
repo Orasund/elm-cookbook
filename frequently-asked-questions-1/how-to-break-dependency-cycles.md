@@ -2,8 +2,6 @@
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -22,9 +20,7 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="User.elm" %}
 ```
 import Main exposing (Msg)
 
@@ -38,13 +34,9 @@ updateUser : Msg -> User -> (Model,Cmd Msg)
 
 viewUser : User -> Html Msg
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -63,9 +55,7 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="User.elm" %}
 ```
 type User =
     ..
@@ -75,13 +65,9 @@ type Msg =
     
 updateUser : (User -> model) -> (Msg -> msg) -> Msg -> User -> (model,Cmd msg)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 
 {% tab title="Alternative Solution" %}
-{% code-tabs %}
-{% code-tabs-item title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -103,9 +89,7 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
-{% endcode-tabs-item %}
 
-{% code-tabs-item title="User.elm" %}
 ```
 type User =
     ..
@@ -115,8 +99,6 @@ type Msg =
     
 updateUser : Msg -> User -> (User,Cmd User.Msg)
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
 {% endtab %}
 {% endtabs %}
 
