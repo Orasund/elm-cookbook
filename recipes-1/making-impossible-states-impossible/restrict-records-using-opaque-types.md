@@ -6,6 +6,7 @@ If you're writing a package use a [pipeline API](../designing-a-api/create-upwar
 
 {% tabs %}
 {% tab title="Problem" %}
+{% code title="Main.elm" %}
 ```text
 type alias Movie = 
     { title : String
@@ -19,9 +20,11 @@ addRating : Int -> Movie -> Movie
 addRating rating movie =
     { movie | rating = rating}
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Solution" %}
+{% code title="Movie.elm" %}
 ```text
 module Movie exposing (Movie,fromTitle,addRating)
 
@@ -50,7 +53,9 @@ fromTitle title =
     , rating = 0
     }
 ```
+{% endcode %}
 
+{% code title="Main.elm" %}
 ```
 import Movie exposing (Movie)
 
@@ -63,6 +68,7 @@ newMovie title rating =
     |> Movie.addRating rating
     |> Maybe.withDefault movie
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

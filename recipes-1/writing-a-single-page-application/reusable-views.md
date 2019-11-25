@@ -6,6 +6,7 @@
 check out Main.elm for the full code.
 ```
 
+{% code title="Main.elm" %}
 ```
 type alias ButtonModel =
     { text : String
@@ -62,9 +63,11 @@ view model =
             ]
         ]
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Solution" %}
+{% code title="Main.elm" %}
 ```text
 exposing MyButton
 
@@ -107,7 +110,9 @@ view ({button} as model) =
             ]
         ]
 ```
+{% endcode %}
 
+{% code title="MyButton.elm" %}
 ```
 type alias ButtonModel =
     { text : String
@@ -140,6 +145,7 @@ myButton msgWrapper {text} attributes children =
         )
         :: children
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

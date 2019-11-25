@@ -2,6 +2,7 @@
 
 {% tabs %}
 {% tab title="Problem" %}
+{% code title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -20,7 +21,9 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
+{% endcode %}
 
+{% code title="User.elm" %}
 ```
 import Main exposing (Msg)
 
@@ -34,9 +37,11 @@ updateUser : Msg -> User -> (Model,Cmd Msg)
 
 viewUser : User -> Html Msg
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Solution" %}
+{% code title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -55,7 +60,9 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
+{% endcode %}
 
+{% code title="User.elm" %}
 ```
 type User =
     ..
@@ -65,9 +72,11 @@ type Msg =
     
 updateUser : (User -> model) -> (Msg -> msg) -> Msg -> User -> (model,Cmd msg)
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Alternative Solution" %}
+{% code title="Main.elm" %}
 ```text
 import User exposing (User)
 
@@ -89,7 +98,9 @@ update msg =
         Login name pass ->
             Debug.todo "login user"
 ```
+{% endcode %}
 
+{% code title="User.elm" %}
 ```
 type User =
     ..
@@ -99,6 +110,7 @@ type Msg =
     
 updateUser : Msg -> User -> (User,Cmd User.Msg)
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

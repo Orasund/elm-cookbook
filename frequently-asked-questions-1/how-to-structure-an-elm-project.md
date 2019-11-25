@@ -11,10 +11,13 @@ This question will therefore be removed at some time in the future.
 
 {% tabs %}
 {% tab title="Problem" %}
+{% code title="Readme.md" %}
 ```
 check out todo.elm for the full code.
 ```
+{% endcode %}
 
+{% code title="Todo.elm" %}
 ```text
 type Task =
     Task
@@ -108,9 +111,11 @@ view : Model -> Html Msg
 
 subscription : Model -> Sub Msgexpos
 ```
+{% endcode %}
 {% endtab %}
 
 {% tab title="Solution" %}
+{% code title="Main.elm" %}
 ```text
 importing Todo.Page.Login as LoginPage
 importing Todo.Page.Todo as TodoPage
@@ -131,7 +136,9 @@ view : Model -> Html Msg
 
 subscription : Model -> Sub Msg
 ```
+{% endcode %}
 
+{% code title="Page/Login.elm" %}
 ```
 module Todo.Page.Login exposing (Model,Msg,view,update)
 
@@ -153,7 +160,9 @@ viewUserForm : Form UserForm -> Html Msg
 
 view : Model -> Html Msg
 ```
+{% endcode %}
 
+{% code title="Page/Todo.elm" %}
 ```
 module Todo.Page.Login exposing (Model,Msg,view,update)
 
@@ -181,7 +190,9 @@ viewTaskForm : Form TaskForm -> Html Msg
 
 view : Model -> Html Msg
 ```
+{% endcode %}
 
+{% code title="Data/Task.elm" %}
 ```
 module Todo.Data.Task exposing (Task,create,complete,validate)
 
@@ -205,7 +216,9 @@ type alias TaskForm =
 
 validate : Form TaskForm -> Form ()
 ```
+{% endcode %}
 
+{% code title="Data/Form.elm" %}
 ```
 module Todo.Data.Form exposing (Form(..),validate)
 
@@ -216,7 +229,9 @@ type Form a =
 
 validate : (Form a -> Form ()) -> Form a -> Form a
 ```
+{% endcode %}
 
+{% code title="Data/User.elm" %}
 ```
 module Todo.Data.User exposing (User,UserForm,create,validate)
 
@@ -239,6 +254,7 @@ type alias UserForm =
 validate : Form UserForm -> Form ()
 
 ```
+{% endcode %}
 {% endtab %}
 {% endtabs %}
 

@@ -4,6 +4,7 @@ There are still a few topics that should be covered. Here are some of them, toge
 
 * Writing a Single Page Application
   * **Article:** [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/)
+  * **Article:** [Combining HTTP requests with Task in Elm](https://korban.net/posts/elm/2019-02-15-combining-http-requests-with-task-in-elm/)
 * Designing Elm package APIs
   * **Article:** [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
   * **Article:** [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d) and [Thread](https://discourse.elm-lang.org/t/moving-from-similar-to-same/2527/7)
