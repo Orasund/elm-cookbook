@@ -6,9 +6,9 @@ This chapter will not cover anything new, but rather try to break the SPA exampl
 
 ## Further reading
 
-* **Example:** [RealWorld example app](https://github.com/rtfeldman/elm-spa-example)
-* **Article:** [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) by Richard Feldman
-* **Video:** [Exloring elm-spa-example](https://www.youtube.com/watch?v=RN2_NchjrJQ) by Richard Feldman
+* ❗**Example:** [RealWorld example app](https://github.com/rtfeldman/elm-spa-example)
+* 📄**Article:** [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) by Richard Feldman
+* 🎥**Video:** [Exloring elm-spa-example](https://www.youtube.com/watch?v=RN2_NchjrJQ) by Richard Feldman
 
 
 

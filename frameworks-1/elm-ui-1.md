@@ -88,7 +88,9 @@ This subject is explained at [12:47 in the Video](https://youtu.be/Ie-gqwSHQr0?t
 
 ## Further Reading
 
-* **Book:** [An Introduction to Style Elements for Elm](https://mdgriffith.gitbooks.io/style-elements/) by Matthew Griffith
-* **Article:** [Elm-ui: Forget CSS and enjoy creating UIs in pure Elm](https://korban.net/posts/elm/2018-11-17-elm-ui-introduction/) by Alex Korban
-* **Video:** [Building a Toolkit for Design](https://www.youtube.com/watch?v=NYb2GDWMIm0) by Matthew Griffith
+* 📖**Book:** [An Introduction to Style Elements for Elm](https://mdgriffith.gitbooks.io/style-elements/) by Matthew Griffith
+* 📄**Article:** [Elm-ui: Forget CSS and enjoy creating UIs in pure Elm](https://korban.net/posts/elm/2018-11-17-elm-ui-introduction/) by Alex Korban
+* 🎥**Video:** [Building a Toolkit for Design](https://www.youtube.com/watch?v=NYb2GDWMIm0) by Matthew Griffith
+
+
 

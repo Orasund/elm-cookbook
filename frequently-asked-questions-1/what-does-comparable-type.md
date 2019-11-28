@@ -78,6 +78,6 @@ So you need to convert Fruit into a comparable type like `Tuple Int String`.
 
 ## Further reading
 
-* **Package:** Use any type with [turboMaCk/any-dict](https://package.elm-lang.org/packages/turboMaCk/any-dict/latest/).
-* **Package:** use any type with [turboMaCk/any-set](https://package.elm-lang.org/packages/turboMaCk/any-set/latest/).
+* 📦**Package:** Use any type with [turboMaCk/any-dict](https://package.elm-lang.org/packages/turboMaCk/any-dict/latest/).
+* 📦**Package:** use any type with [turboMaCk/any-set](https://package.elm-lang.org/packages/turboMaCk/any-set/latest/).
 

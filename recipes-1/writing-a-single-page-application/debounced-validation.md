@@ -75,7 +75,7 @@ Subscribe to time passing, based on whether a password need to be debounced or n
 
 ## Further reading
 
-* **Thread:** [Example: Debounced Validation](https://discourse.elm-lang.org/t/example-debounced-validation/3804)
-* **Package:** [Gizra/elm-debouncer](https://package.elm-lang.org/packages/Gizra/elm-debouncer/latest/)
-* **Package:** [jinjor/elm-debounce](https://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)
+* 👥**Thread:** [Example: Debounced Validation](https://discourse.elm-lang.org/t/example-debounced-validation/3804)
+* 📦**Package:** [Gizra/elm-debouncer](https://package.elm-lang.org/packages/Gizra/elm-debouncer/latest/)
+* 📦**Package:** [jinjor/elm-debounce](https://package.elm-lang.org/packages/jinjor/elm-debounce/latest/)
 

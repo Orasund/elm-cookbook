@@ -92,7 +92,7 @@ addRating rating (Movie movie) =
 
 ## Further reading
 
-* **Book:** [Beginning Elm](https://elmprogramming.com/commands.html#opaque-type) by Pawan Poudel
-* **Article:** [Advanced Types in Elm - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) by Charlie Koster
-* **Thread:** [Post-update invariant repair: good idea or bad?](https://discourse.elm-lang.org/t/post-update-invariant-repair-good-idea-or-bad/3715/2)
+* 📖**Book:** [Beginning Elm](https://elmprogramming.com/commands.html#opaque-type) by Pawan Poudel
+* 📄**Article:** [Advanced Types in Elm - Opaque Types](https://medium.com/@ckoster22/advanced-types-in-elm-opaque-types-ec5ec3b84ed2) by Charlie Koster
+* 👥**Thread:** [Post-update invariant repair: good idea or bad?](https://discourse.elm-lang.org/t/post-update-invariant-repair-good-idea-or-bad/3715/2)
 

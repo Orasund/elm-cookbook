@@ -54,6 +54,6 @@ type alias ZipperList a =
 
 ## Further reading
 
-* **Package:** [miyamoen/select-list](https://package.elm-lang.org/packages/miyamoen/select-list/latest)
-* **Package:** [wernerdegroot/listzipper](https://package.elm-lang.org/packages/wernerdegroot/listzipper/latest/)
+* 📦**Package:** [miyamoen/select-list](https://package.elm-lang.org/packages/miyamoen/select-list/latest)
+* 📦**Package:** [wernerdegroot/listzipper](https://package.elm-lang.org/packages/wernerdegroot/listzipper/latest/)
 

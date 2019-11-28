@@ -103,5 +103,5 @@ rate newRating ({currentMovie} as model) =
 
 ## Further reading
 
-* **Article:** [Updating nested records in Elm](https://medium.com/elm-shorts/updating-nested-records-in-elm-15d162e80480) by Wouter In t Velt
+* 📄**Article:** [Updating nested records in Elm](https://medium.com/elm-shorts/updating-nested-records-in-elm-15d162e80480) by Wouter In t Velt
 

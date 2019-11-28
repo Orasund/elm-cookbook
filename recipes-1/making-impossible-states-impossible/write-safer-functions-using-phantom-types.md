@@ -67,5 +67,5 @@ Use `LoginForm ()` for unvalidated forms and `LoginForm Valid` for validated one
 
 ## Further reading
 
-* **Article:** [Advanced Types in Elm - Phantom Types](https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d) by Charlie Koster
+* 📄**Article:** [Advanced Types in Elm - Phantom Types](https://medium.com/@ckoster22/advanced-types-in-elm-phantom-types-808044c5946d) by Charlie Koster
 

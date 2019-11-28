@@ -159,8 +159,8 @@ The trick is to add an argument `(ButtonMsg -> msg)`.
 
 ## Further reading
 
-* **Article:** [Render props for Elm](https://hackernoon.com/render-props-for-elm-d5547efd66f5) by Boolean Julian Jelfs
-* **Example:** [NoRedInk/elm-sortable-table](https://package.elm-lang.org/packages/NoRedInk/elm-sortable-table/latest/)
-* **Example:** [abadi199/datetimepicker](https://package.elm-lang.org/packages/abadi199/datetimepicker/latest/DateTimePicker)
-* **Example:** [ContaSystemer/elm-menu](https://package.elm-lang.org/packages/ContaSystemer/elm-menu/latest/)
+* 📄**Article:** [Render props for Elm](https://hackernoon.com/render-props-for-elm-d5547efd66f5) by Boolean Julian Jelfs
+* ❗**Example:** [NoRedInk/elm-sortable-table](https://package.elm-lang.org/packages/NoRedInk/elm-sortable-table/latest/)
+* ❗**Example:** [abadi199/datetimepicker](https://package.elm-lang.org/packages/abadi199/datetimepicker/latest/DateTimePicker)
+* ❗**Example:** [ContaSystemer/elm-menu](https://package.elm-lang.org/packages/ContaSystemer/elm-menu/latest/)
 

@@ -79,7 +79,7 @@ Put the common data, in our case the name, all in one case and separate it from 
 
 ## Further Reading
 
-* **Thread:** [Passing accessors to functions](https://www.reddit.com/r/elm/comments/aq69vq/passing_accessors_to_functions/)
+* 👥**Thread:** [Passing accessors to functions](https://www.reddit.com/r/elm/comments/aq69vq/passing_accessors_to_functions/)
 
 
 

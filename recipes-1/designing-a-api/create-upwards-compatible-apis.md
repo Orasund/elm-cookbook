@@ -70,11 +70,11 @@ Movie.fromTitle "Life of Brian"
 
 ## Further Reading
 
-* **Article:** [With\* Functions in Elm](https://medium.com/@ckoster22/with-functions-in-elm-a88dc0e1f851) by  Charlie Koster
-* **Video:** [Robot Buttons from Mars](https://www.youtube.com/watch?v=PDyWP-0H4Zo) by Brian Hicks
-* **Example:** [NoRedInk/elm-json-decode-pipeline](https://package.elm-lang.org/packages/NoRedInk/elm-json-decode-pipeline/latest/)
-* **Example:** [Chadtech/random-pipeline](https://package.elm-lang.org/packages/Chadtech/random-pipeline/latest/)
-* **Example:** [Particle Type](https://package.elm-lang.org/packages/BrianHicks/elm-particle/latest/Particle#Particle) from BrianHicks/elm-particle
-* **Example:** [Request Type](https://package.elm-lang.org/packages/dillonkearns/elm-graphql/latest/Graphql-Http#withHeader) from dillonkearns/elm-graph
-* **Example:** [Image Type](https://package.elm-lang.org/packages/Orasund/pixelengine/latest/PixelEngine-Image#Image) from Orasund/pixelengine
+* 📄**Article:** [With\* Functions in Elm](https://medium.com/@ckoster22/with-functions-in-elm-a88dc0e1f851) by  Charlie Koster
+* 🎥**Video:** [Robot Buttons from Mars](https://www.youtube.com/watch?v=PDyWP-0H4Zo) by Brian Hicks
+* ❗**Example:** [NoRedInk/elm-json-decode-pipeline](https://package.elm-lang.org/packages/NoRedInk/elm-json-decode-pipeline/latest/)
+* ❗**Example:** [Chadtech/random-pipeline](https://package.elm-lang.org/packages/Chadtech/random-pipeline/latest/)
+* ❗**Example:** [Particle Type](https://package.elm-lang.org/packages/BrianHicks/elm-particle/latest/Particle#Particle) from BrianHicks/elm-particle
+* ❗**Example:** [Request Type](https://package.elm-lang.org/packages/dillonkearns/elm-graphql/latest/Graphql-Http#withHeader) from dillonkearns/elm-graph
+* ❗**Example:** [Image Type](https://package.elm-lang.org/packages/Orasund/pixelengine/latest/PixelEngine-Image#Image) from Orasund/pixelengine
 

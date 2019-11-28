@@ -126,5 +126,5 @@ How to break out of the dependency cycles?
 
 ## Further Reading
 
-* **Article:** [High-Level Dependency Strategies in Elm](https://medium.com/@matthew.buscemi/high-level-dependency-strategies-in-elm-1135ec877d49) by Matthew Buscemi
+* 📄**Article:** [High-Level Dependency Strategies in Elm](https://medium.com/@matthew.buscemi/high-level-dependency-strategies-in-elm-1135ec877d49) by Matthew Buscemi
 
