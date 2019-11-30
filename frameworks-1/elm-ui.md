@@ -9,6 +9,7 @@ There are still a few topics that should be covered. Here are some of them, toge
   * 📦**Package:** [pipeline](https://github.com/alexspurling/elm-recipes/tree/master/random)
 * 🎥**Video:** [BrianHicks/elm-particle](https://www.youtube.com/watch?v=goL7LeDHFi4)
 * 📦**Package:** [arowM/elm-form-decoder](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)
+* 🎥**Video:** [w0rm/elm-physics](https://www.youtube.com/watch?v=pJ1i0iHxf58)
 * Drawing Graphics
   * 👥**Thread:** [joakin/elm-canvas](https://discourse.elm-lang.org/t/some-p5js-org-examples-in-elm/3781) 
   * 🎥**Video:** [elm-explorations/webgl](https://www.youtube.com/watch?v=Z-6ETEBNlMs)
