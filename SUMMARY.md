@@ -17,6 +17,7 @@
 ## Recipes <a id="recipes-1"></a>
 
 * [Writing a Single Page Application](recipes-1/writing-a-single-page-application/README.md)
+  * [Share state across pages](recipes-1/writing-a-single-page-application/share-state-across-pages.md)
   * [Debounced Validation](recipes-1/writing-a-single-page-application/debounced-validation.md)
   * [Reusable views](recipes-1/writing-a-single-page-application/reusable-views.md)
 * [Making impossible states Impossible](recipes-1/making-impossible-states-impossible/README.md)

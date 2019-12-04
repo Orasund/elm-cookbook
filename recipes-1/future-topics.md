@@ -3,9 +3,10 @@
 There are still a few topics that should be covered. Here are some of them, together with helpful resources.
 
 * Writing a Single Page Application
-  * 📄**Article:** [Passing the State down/sharing State across pages](https://www.curry-software.com/en/blog/elm_shared_state/) and [Video](https://www.youtube.com/watch?v=YV_qrjN8bRA)
-    * 📦**Package:** [webbhuset/elm-actor-model](https://package.elm-lang.org/packages/webbhuset/elm-actor-model/4.0.0/)
+  * 📄**Article:** [State transitions](https://www.curry-software.com/en/blog/elm_shared_state/)
+    * 📦**Package:** [webbhuset/elm-actor-model](https://package.elm-lang.org/packages/webbhuset/elm-actor-model/4.0.0/) and [Video](https://www.youtube.com/watch?v=YV_qrjN8bRA)
     * 📦**Package:** [Orasund/elm-action](https://package.elm-lang.org/packages/Orasund/elm-action/latest/)
+    * 🎥**Video:** [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs)
   * 📄**Article:** [Combining HTTP requests with Task in Elm](https://korban.net/posts/elm/2019-02-15-combining-http-requests-with-task-in-elm/)
 * Designing Elm package APIs
   * 📄**Article:** [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
