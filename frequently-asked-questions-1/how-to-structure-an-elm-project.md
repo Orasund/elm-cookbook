@@ -1,9 +1,7 @@
 # How to structure an Elm project?
 
-{% hint style="danger" %}
 The answer to this question can be found in the [Beginning Elm book](https://elmprogramming.com/restructuring-code.html).  
 This question will therefore be removed at some time in the future.
-{% endhint %}
 
 {% hint style="info" %}
 **Do not overuse:** Files are allowed to get quite big without needing to split them.
@@ -11,12 +9,6 @@ This question will therefore be removed at some time in the future.
 
 {% tabs %}
 {% tab title="Problem" %}
-{% code title="Readme.md" %}
-```
-check out todo.elm for the full code.
-```
-{% endcode %}
-
 {% code title="Todo.elm" %}
 ```text
 type Task =
