@@ -18,5 +18,6 @@ There are still a few topics that should be covered. Here are some of them, toge
 * 📄**Article:** [Working with Forms](https://medium.com/@l.mugnaini/forms-in-elm-validation-tutorial-and-examples-2339830055da) and [Blog](https://korban.net/posts/elm/2018-11-27-build-complex-forms-validation-elm/)
 * 📄**Article:** [Web Workers](https://medium.com/@nithstong/elm-with-web-workers-1c2c3d55f939)
 * 📄**Article:** [Drag and Drop](https://medium.com/elm-shorts/elm-drag-and-drop-game-630205556d2)
+  * 📄**Article:** [drag drop without draggables dropzones](https://blog.noredink.com/post/186724971283/drag-drop-without-draggables-dropzones)
 * 👥**Thread:** [Keyboard input](https://www.reddit.com/r/elm/comments/bkxr92/difficulty_with_preventing_default_on_key_down/)
 

@@ -9,6 +9,7 @@ There are still a few topics that should be covered. Here are some of them, toge
   * 📦**Package:** [pipeline](https://github.com/alexspurling/elm-recipes/tree/master/random)
 * 🎥**Video:** [BrianHicks/elm-particle](https://www.youtube.com/watch?v=goL7LeDHFi4)
 * 📦**Package:** [arowM/elm-form-decoder](https://package.elm-lang.org/packages/arowM/elm-form-decoder/latest/)
+  * **📄Article:** [Form Decoding: the next era of the Form Validation](https://arow.info/posts/2019/form-decoding/?utm_campaign=Elm%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 * 🎥**Video:** [w0rm/elm-physics](https://www.youtube.com/watch?v=pJ1i0iHxf58)
 * 🎥**Video:** [elm/bytes](https://www.youtube.com/watch?v=inhfdRrh5NM)
 * Drawing Graphics
