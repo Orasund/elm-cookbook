@@ -8,6 +8,8 @@ There are still a few topics that should be covered. Here are some of them, toge
     * 📦**Package:** [Orasund/elm-action](https://package.elm-lang.org/packages/Orasund/elm-action/latest/)
     * 🎥**Video:** [Scaling Elm Apps](https://www.youtube.com/watch?v=DoA4Txr4GUs)
   * 📄**Article:** [Combining HTTP requests with Task in Elm](https://korban.net/posts/elm/2019-02-15-combining-http-requests-with-task-in-elm/)
+  * 📄**Article:** [Authenticating in Elm](https://blog.thesett.com/)
+    * 📦**Package:** [the-sett/elm-auth](https://package.elm-lang.org/packages/the-sett/elm-auth/latest/)
 * Designing Elm package APIs
   * 📄**Article:** [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
   * 📄**Article:** [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d) and [Thread](https://discourse.elm-lang.org/t/moving-from-similar-to-same/2527/7)
