@@ -13,6 +13,7 @@ There are still a few topics that should be covered. Here are some of them, toge
 * Designing Elm package APIs
   * 📄**Article:** [Publishing an Elm Package](https://medium.com/@Max_Goldstein/how-to-publish-an-elm-package-3053b771e545)
   * 📄**Article:** [Extendable Records](https://medium.com/@ckoster22/advanced-types-in-elm-extensible-records-67e9d804030d) and [Thread](https://discourse.elm-lang.org/t/moving-from-similar-to-same/2527/7)
+  * 👥**Thread:** [Partial defunctionalization](https://discourse.elm-lang.org/t/a-useful-technique-partial-defunctionalization/5333)
 * Making impossible states Impossible
 * Reusable Views
   * 📄**Article:** [Dropdown menus](https://medium.com/elm-shorts/a-reusable-dropdown-in-elm-part-1-d7ac2d106f13)
