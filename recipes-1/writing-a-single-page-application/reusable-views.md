@@ -2,11 +2,7 @@
 
 {% tabs %}
 {% tab title="Problem" %}
-```
-check out Main.elm for the full code.
-```
-
-{% code title="Main.elm" %}
+{% code title="Main.elm " %}
 ```
 type alias ButtonModel =
     { text : String
@@ -38,7 +34,9 @@ update msg ({button} as model) =
         _ ->
             (model, Cmd.none)
 
-{-| This can be moved into a seperate file as it still depends on Msg.
+{-|
+  This can be moved into a seperate file as it still 
+  depends on Msg.
 -}
 myButton : ButtonModel -> List (Attribute Msg) -> List (Html Msg) -> Html Msg
 myButton {text} attributes children =
@@ -69,29 +67,21 @@ view model =
 {% tab title="Solution" %}
 {% code title="Main.elm" %}
 ```text
-exposing MyButton
+import MyButton
 
 type alias Model =
     { button: MyButton.Model
     }
 
 type Msg =
-    ButtonSpecific MyButton.Msg
+    | ButtonPressed String
     | Reset
 
 update : Msg -> Model -> (Model,Cmd Msg)
 update msg ({button} as model) =
     case msg of
-        ButtonSpecific buttonMsg -> 
-            let
-                ( newButton, cmd) =
-                    MyButton.update
-                        ButtonSpecific
-                        buttonMsg
-                        button
-            in
-            ( { button = newButton
-              }
+        ButtonPressed string -> 
+            ( button |> MyButton.buttonPressed string
             , cmd
             ) 
         _ ->
@@ -103,7 +93,7 @@ view ({button} as model) =
         [ Html.h1 []
             [ Html.text "Here is a reusable view for a button"
             ]
-        , myButton ButtonSpecific
+        , MyButton.view ButtonPressed
             button
             []
             [ Html.text "Click me!"
@@ -114,30 +104,21 @@ view ({button} as model) =
 
 {% code title="MyButton.elm" %}
 ```
-type alias ButtonModel =
+type alias Model =
     { text : String
     }
 
-type ButtonMsg =
-    ButtonPressed
+buttonPressed : String -> Model -> Model
+buttonPressed string button =
+  { button
+  | text = string
+  }
 
-update : (ButtonMsg -> msg) -> ButtonMsg -> ButtonModel -> (ButtonModel,Cmd msg)
-update msgWrapper msg ({button} as model) =
-    case msg of
-        Button.Pressed -> 
-            ( { button
-              | text = "Thanks!"
-              }
-            , Cmd.none |> Cmd.map msgWrapper 
-            ) 
-        _ ->
-            (model, Cmd.none |> Cmd.map msgWrapper)
-
-myButton : (ButtonMsg -> msg) -> ButtonModel -> List (Attribute msg) -> List (Html msg) -> Html msg
-myButton msgWrapper {text} attributes children =
+view : (string -> msg) -> ButtonModel -> List (Attribute msg) -> List (Html msg) -> Html msg
+view onClick {text} attributes children =
     Html.div []
         (Html.button
-            [ (Events.onClick <| msgWrapper ButtonPressed)
+            [ (Events.onClick <| onClick <| "Thanks!")
               :: attributes 
             ]
             [ Html.text text
@@ -151,14 +132,15 @@ myButton msgWrapper {text} attributes children =
 
 ## Question
 
-How can I build a reusable view function with its own model and update function?
+How can I build a reusable view function with its own model?
 
 ## Answer
 
-The trick is to add an argument `(ButtonMsg -> msg)`. 
+The trick is to pass the Messages along. 
 
 ## Further reading
 
+* 📄**Article:** [rofrol/elm-best-practices.md](https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99#reusable-views-instead-of-nested-components)
 * 📄**Article:** [Render props for Elm](https://hackernoon.com/render-props-for-elm-d5547efd66f5) by Boolean Julian Jelfs
 * ❗**Example:** [NoRedInk/elm-sortable-table](https://package.elm-lang.org/packages/NoRedInk/elm-sortable-table/latest/)
 * ❗**Example:** [abadi199/datetimepicker](https://package.elm-lang.org/packages/abadi199/datetimepicker/latest/DateTimePicker)
