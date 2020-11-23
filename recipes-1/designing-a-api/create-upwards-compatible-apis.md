@@ -1,5 +1,9 @@
 # Create upwards compatible APIs
 
+{% hint style="info" %}
+This topic has been covered by [Elm Patterns](https://sporto.github.io/elm-patterns/basic/builder-pattern.html)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Problem" %}
 {% code title="Movie.elm" %}

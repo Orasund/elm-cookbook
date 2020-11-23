@@ -66,7 +66,9 @@ This is a summary of the talk [Demystifying Parsers](https://www.youtube.com/wat
         one of the parsers fails.</td>
     </tr>
   </tbody>
-</table>## Pipeline
+</table>
+
+## Pipeline
 
 {% hint style="info" %}
 This subject is explained at [4:48 in the Video](https://youtu.be/M9ulswr1z0E?t=288).
@@ -105,7 +107,9 @@ This subject is explained at [4:48 in the Video](https://youtu.be/M9ulswr1z0E?t=
       <td style="text-align:left">Represents whitespace</td>
     </tr>
   </tbody>
-</table>## Strings
+</table>
+
+## Strings
 
 {% hint style="info" %}
 This subject is explained at [7:20 in the Video](https://youtu.be/M9ulswr1z0E?t=440).

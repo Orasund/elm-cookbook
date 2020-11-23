@@ -1,6 +1,10 @@
 # Restrict records using Opaque Types
 
 {% hint style="info" %}
+This topic has been covered by [Elm Patterns](https://sporto.github.io/elm-patterns/advanced/opaque-types.html)
+{% endhint %}
+
+{% hint style="info" %}
 If you're writing a package use a [pipeline API](../designing-a-api/create-upwards-compatible-apis.md) instead.
 {% endhint %}
 
